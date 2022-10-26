@@ -1,4 +1,3 @@
-print('helloworld');
-a = 5;
-b = 6;
-print(a+b);
+print("Gaoda");
+print('o----')
+print(' ||||')
